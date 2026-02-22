@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Tailwind-v3.4+-cyan.svg" alt="Tailwind">
 </p>
 
-<p align="center">
+<p align="center"><img width="2940" height="1596" alt="ScreenShot_2026-02-22_222904_390" src="https://github.com/user-attachments/assets/763cc0d4-3dc3-4b0b-8109-016e89d51ff2" />
+<img width="2958" height="1616" alt="ScreenShot_2026-02-22_222836_162" src="https://github.com/user-attachments/assets/410c305a-c873-4013-8432-790e159bb091" />
+
   <strong>互动教育可视化建筑师</strong><br>
   把任意教学主题瞬间转化为沉浸式3D交互教学网页
 </p>
